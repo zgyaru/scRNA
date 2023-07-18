@@ -11,5 +11,5 @@
 * unsupervised clustering
 
 ### Cell type auto-annotation
-* marker based
-* reference based
+* marker gene based
+* reference atlas based
