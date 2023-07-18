@@ -5,4 +5,11 @@
 
 
 ## Functions:
-* Clustering
+### Canonical clustering
+* preprocessing (quality control, normalization)
+* batch remove
+* unsupervised clustering
+
+### Cell type auto-annotation
+* marker based
+* reference based
